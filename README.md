@@ -1,2 +1,6 @@
-# Student.txt
-Student in Computer Section 2566
+# CL66-01
+
+Computer Laboratory 2566 - Lab 01
+
+My name is Thanaloek Kaisai
+Edited by Github Text Editor
